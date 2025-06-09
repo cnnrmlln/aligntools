@@ -10,7 +10,7 @@ This PowerShell script takes a list of IPs or FQDNs and performs:
 
 1. Add targets to `url-list.txt` (1 per line)
 2. Edit the input/output file locations `DNS-Reverselookup.ps1`
-3. Run `dns_lookup.ps1`
+3. Run `DNS-Reverselookup.ps1`
 4. Output is saved to `url-output.csv`
 
 
