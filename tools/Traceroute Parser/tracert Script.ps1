@@ -1,8 +1,8 @@
 ﻿# Path to the text file with list of target hosts
-$targetFile = "\\wdcnapvs505.internal.cigna.com\Home11$\C8K3JT\Desktop\scripts\Other Tools\tracert\targets.txt"
+$targetFile = "\\PATH\TO\targets.txt"
 
 # Output CSV path
-$outputCsv = "\\wdcnapvs505.internal.cigna.com\Home11$\C8K3JT\Desktop\scripts\Other Tools\tracert\traceroute_results.csv"
+$outputCsv = "\\PATH\TO\traceroute_results.csv"
 
 # Check if target file exists
 if (-not (Test-Path $targetFile)) {
