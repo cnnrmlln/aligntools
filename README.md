@@ -7,6 +7,8 @@ This repository contains a collection of PowerShell scripts and tools used to au
 - **DNS Lookup** — Forward and reverse lookup, ping tests
 - **Traceroute Parser** — Hop-by-hop latency analysis
 - **Anti-VDI Timeout Script** — Prevents session timeout during idle periods
+- **Excel VBA Scripts** - Various data manipulation Excel VBA based scripts
+- **Additional Tools/Scripts/Processes** - As contributions and requests come in
 
 ## Getting Started
 
