@@ -6,11 +6,8 @@ This PowerShell script takes a list of IPs or FQDNs and performs:
 - Reverse DNS Lookup
 - Ping Test
 
-## 🔧 Usage
+##  Usage
 
 1. Add targets (FQDN or IP) to `url-list.txt` (1 per line)
 2. Run `dns_lookup.ps1`
 3. Output is saved to `url-output.csv`
-
-### 📥 Input Format
-
