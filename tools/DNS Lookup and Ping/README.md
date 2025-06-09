@@ -9,8 +9,9 @@ This PowerShell script takes a list of IPs or FQDNs and performs:
 ##  Usage
 
 1. Add targets to `url-list.txt` (1 per line)
-2. Run `dns_lookup.ps1`
-3. Output is saved to `url-output.csv`
+2. Edit the input/output file locations `DNS-Reservelookup.ps1`
+3. Run `dns_lookup.ps1`
+4. Output is saved to `url-output.csv`
 
 
 ###  Output Fields
