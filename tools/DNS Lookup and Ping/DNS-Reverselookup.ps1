@@ -1,6 +1,6 @@
 ﻿$counter = 1
-$comps = get-content '\\wdcnapvs505.internal.cigna.com\Home11$\C8K3JT\Desktop\scripts\Other Tools\DNS Reverse Lookup Script\url-list.txt'
-$dnsResults = "\\wdcnapvs505.internal.cigna.com\Home11$\C8K3JT\Desktop\scripts\Other Tools\DNS Reverse Lookup Scripturl-output.csv"
+$comps = get-content '\\PATH\TO\URL-LIST FILE\url-list.txt'
+$dnsResults = "\\PATH\TO\OUTPUT\url-output.csv"
 
 function get-dnsres{
 foreach ($comp in $comps) {
