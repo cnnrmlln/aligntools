@@ -5,8 +5,9 @@ This PowerShell script performs a traceroute and extracts each hop's latency and
 ##  Usage
 
 1. Add target IPs/FQDNs to `targets.txt`
-2. Run `traceroute.ps1`
-3. Outputs to `traceroute_results.csv`
+2. Edit the file path for input and output locations `tracert Script.ps1`
+3. Run `traceroute.ps1`
+4. Outputs to `traceroute_results.csv`
 
 ###  Output Fields
 
